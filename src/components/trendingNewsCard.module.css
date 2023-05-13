@@ -1,0 +1,31 @@
+.newsThumb{
+    width: 150px;
+}
+.image {
+    width: 150px;
+    height: 90px;;
+    object-fit: contain;
+}
+.postDetail span{
+    font-size: 13px;
+}
+
+.newsDetails{
+    margin-left: 20px;
+    width: fit-content;
+}
+.trendingNews{
+    position: sticky;
+    overflow: scroll;
+}
+.image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+.trendingNewsCard{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}

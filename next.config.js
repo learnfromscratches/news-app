@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
 
   env : {
-    API_KEY : '112aP1M_lC6LbEeA3Y_oTswkwkNFEsz86llqLx9I3uI'
+    API_KEY : '4Xo2FAnP7bRDJ_mUBC3bE0WmOBMN4fb3s4fFBNU5C3s'
   }
 }
 

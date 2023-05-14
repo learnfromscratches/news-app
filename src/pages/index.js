@@ -56,7 +56,6 @@ export default function Home() {
           {news.map(item => {
             return (
               <NewsCard src={item.media}
-                id = {item._id}
                 alt="Image not found"
                 title={item.title}
                 author={item.author}
